@@ -21,7 +21,7 @@ EDA involved exploring the sales data to answer the key questions, such as :
 - Gender distribution on Number of employees
 - Headquarter vs remote location employees
 - Employees by location
-- 
+
 ### Result / Findings
 
 The analysis results are summarised as follows  :
